@@ -39,6 +39,10 @@ h2 {
      text-align: center;
 }
 
+.checkpoint a {
+     color: #fff;
+}
+
 .title p {
      color: #d7f303;
      font-size: 1.3em;
